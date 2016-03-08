@@ -5,7 +5,8 @@
 Currently, this crate only includes basic functionality to check the output of a child process
 is as expected.
 
-[![Build Status](https://travis-ci.org/killercup/assert_cli.svg)](https://travis-ci.org/killercup/assert_cli) [![Coverage Status](https://coveralls.io/repos/killercup/assert_cli/badge.svg?branch=master&service=github)](https://coveralls.io/github/killercup/assert_cli?branch=master)
+[![Build Status](https://travis-ci.org/robisys/assert_cli.svg)](https://travis-ci.org/robisys/assert_cli) 
+
 
 **[Documentation](http://killercup.github.io/assert_cli/)**
 
